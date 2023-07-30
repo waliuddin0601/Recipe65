@@ -31,4 +31,4 @@ mongoose.connect(
   "mongodb+srv://waliuddin0601:cloudkitchen@cluster0.fyxjgyi.mongodb.net/Receipe"
 );
 
-app.listen(3001, () => console.log("server started!"));
+app.listen(8000, () => console.log("server started!"));
